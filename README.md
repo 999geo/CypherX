@@ -1,4 +1,4 @@
-<h1 align="center"> JUICER-999X</h1>
+<h1 align="center"> CYPHERX</h1>
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
